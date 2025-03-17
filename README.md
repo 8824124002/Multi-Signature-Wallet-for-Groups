@@ -21,3 +21,5 @@ The vision behind the Watch NFT Marketplace is to create a digital platform wher
 3. **Secure Transactions**: Payments are handled through smart contracts, ensuring that the correct amount is transferred to the previous owner, while providing full transparency.
 4. **Event-Driven System**: The contract emits events whenever a new NFT is created or ownership is transferred, making the process trackable and transparent.
 5. **Decentralized Ownership**: Ownership of the digital watch NFTs is entirely on the blockchain, ensuring that creators and buyers maintain full control over their assets.
+
+![image](https://github.com/user-attachments/assets/83d7f2f8-727a-4a27-9a7e-965a5a915eb6)
